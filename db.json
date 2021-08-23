@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "UGG Women Classic Short Boot",
+      "code": "P1000",
+      "category": "Clothing",
+      "likes": 11
+    },
+    {
+      "id": 2,
+      "name": "Dell Inspiron 15.6-Inch Laptop",
+      "code": "P2000",
+      "category": "Electronic",
+      "likes": 5
+    },
+    {
+      "id": 3,
+      "name": "San Francisco Bay Coffee Breakfast Blend",
+      "code": "P3000",
+      "category": "Food",
+      "likes": 4
+    },
+    {
+      "code": "P4000",
+      "name": "Web Design",
+      "category": "Book",
+      "id": 4,
+      "likes": 7
+    },
+    {
+      "code": "P5000",
+      "name": "Advanced Web Design",
+      "category": "Book",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "providers": [
+    {
+      "id": 1,
+      "name": "Amazon",
+      "code": "B1000"
+    },
+    {
+      "id": 2,
+      "name": "Ebay",
+      "code": "B2000"
+    }
+  ]
+}
